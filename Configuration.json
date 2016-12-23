@@ -1,0 +1,7 @@
+{
+	"Environment":"Development",
+	"DBConfig":{
+		"DriverName":"mysql",
+		"DriverSourceName":"root:password@/find_a_tutor2?charset=utf8&parseTime=True&loc=Local"
+	}
+}
